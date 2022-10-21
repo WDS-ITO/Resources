@@ -9,4 +9,4 @@
 7. (Paid) Udemy course on RDF and SPARQL -> [Link](https://www.google.com/aclk?sa=l&ai=DChcSEwi49u2qgej6AhUrEecKHeJZAsUYABAAGgJwdg&sig=AOD64_07jTTNk6oZuC4gLHg_5pdz12qtKw&q&adurl&ved=2ahUKEwi_qeaqgej6AhWvMzQIHQ9OATkQ0Qx6BAgGEAE).
 8. (Free) W3C SPARQL -> [Link](https://www.w3.org/TR/sparql11-query/)
 9. (Free) Constructing SPARQL Queries -> [Link](https://medium.com/wallscope/constructing-sparql-queries-ca63b8b9ac02)
-10. (Free) Cambridge Semantics SPARQL -> [Link](https://www.iro.umontreal.ca/~lapalme/ift6281/sparql-1_1-cheat-sheet.pdf)
+10. (Free) Cambridge Semantics SPARQL By Example -> [Link](https://www.iro.umontreal.ca/~lapalme/ift6281/sparql-1_1-cheat-sheet.pdf)
