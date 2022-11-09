@@ -1,4 +1,4 @@
-# A SPARQL RDF Compedium
+# A SPARQL RDF Compendium
 
 These are a list of resources that help people learn about SPARQL
 1. (Free) Introduction to RDF AND SPARQL -> [Here](https://data.europa.eu/sites/default/files/d2.1.2_training_module_1.3_introduction_to_rdf_sparql_en_edp.pdf).
